@@ -35,7 +35,7 @@ class Spider(object):
 
 
 if __name__ == '__main__':
-    db=DB(host='60.***.***.86',user='mac',passwd='ACrpbJHZYsyjAAce',db='uipic',charset='utf8')
+    db=DB(host='60.***.***.86',user='666',passwd='666',db='uipic',charset='utf8')
     urls=['http://app.xueui.cn/category/download/page/1'
          ,'http://app.xueui.cn/category/details-page/page/1','http://app.xueui.cn/category/feedback/page/1','http://app.xueui.cn/category/settings/page/1','http://app.xueui.cn/category/data/page/1'
          ,'http://app.xueui.cn/category/about/page/1','http://app.xueui.cn/category/other/page/1']
